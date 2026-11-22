@@ -1,3 +1,4 @@
 *.y linguist-vendored
 *.yy linguist-vendored
+*.yacc linguist-vendored
 
