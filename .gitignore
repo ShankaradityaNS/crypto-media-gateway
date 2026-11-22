@@ -39,3 +39,4 @@ image64.raw
 .DS_Store
 docs/
 Links
+sim/*.y
